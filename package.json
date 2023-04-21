@@ -1,5 +1,5 @@
 {
-  "name": "file_metadata",
+  "name": "fcc-file-metadata-service",
   "version": "0.0.1",
   "description": "API project for freeCodeCamp",
   "main": "index.js",
